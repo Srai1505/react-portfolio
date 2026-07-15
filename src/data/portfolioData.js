@@ -132,6 +132,7 @@ export const projects = [
     tech: ['HTML', 'CSS', 'JavaScript'],
     github: 'https://github.com/Srai1505',
     demo: 'https://myprofessional-portfolio.netlify.app/',
+   },
   {
     name: 'Weather App',
     description: 'A weather lookup app consuming a public weather API with a clean, responsive UI.',

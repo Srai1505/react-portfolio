@@ -20,6 +20,16 @@ export const about = {
       institute: 'Babu Banarasi Das Institute of Technology & Management, Lucknow',
       duration: '2023 — 2027',
     },
+    {
+      degree: 'Intermediate,(12th)',
+      institute: 'Lucknow Public Schools & Colleges, Lucknow',
+      duration: '2022-2023',
+    },
+    {
+      degree: 'High School,(10th)',
+      institute: 'Lucknow Public Schools & Colleges, Lucknow',
+      duration: '2020-2021',
+    },
   ],
   interests: ['Civic Tech', 'UI/UX Design', 'Open Source', 'Frontend Architecture'],
   strengths: [
@@ -56,6 +66,21 @@ export const experience = [
       'Collaborated on iterative UI feedback cycles to reach a production-ready finish',
     ],
     tech: ['HTML', 'CSS', 'JavaScript', 'LocalStorage'],
+  },
+  {
+    company: 'College Technology Club — BBDITM',
+    role: 'Reimagine Club | Cultural & Tech Lead',
+    duration: 'Apr 2026 — Apr 2027)',
+    responsibilities: [
+      'Organized INNOVERSE, a multi-domain college event featuring startup pitching, open mic, and creative competitions',
+      'Planned and executed a 2-day technical & cultural events across the college campus. ',
+      'Hosted and mentored a team of 8+ students for the event, including technical workshops and creative competitions',
+      'Managed event timelines, registrations, and on-ground operations, ensuring smooth execution and participant satisfaction.',
+      'Led creative initiatives, including event branding, social media campaigns, and promotional content, enhancing the event\'s visibility and engagement.',
+      'Collaborated with faculty and external partners to secure sponsorships, resources, and technical support for the event.',
+      'Implemented post-event feedback mechanisms to gather insights for future improvements and event planning.',
+    ],
+    tech: null,
   },
 ]
 

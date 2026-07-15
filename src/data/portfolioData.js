@@ -80,7 +80,7 @@ export const experience = [
       'Collaborated with faculty and external partners to secure sponsorships, resources, and technical support for the event.',
       'Implemented post-event feedback mechanisms to gather insights for future improvements and event planning.',
     ],
-    tech: null,
+    tech: ['Event Management', 'Leadership', 'Creative Direction', 'Public Speaking', 'Team Coordination' ],
   },
 ]
 

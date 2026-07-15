@@ -125,6 +125,13 @@ export const projects = [
     github: 'https://github.com/Srai1505',
     demo: 'https://smarto-sham.netlify.app/',
   },
+   {
+    name: 'My Portfolio Website (version 1)',
+    description:
+      'My first personal portfolio website, built with React and styled-components, showcasing my projects and skills.',
+    tech: ['HTML', 'CSS', 'JavaScript'],
+    github: 'https://github.com/Srai1505',
+    demo: 'https://myprofessional-portfolio.netlify.app/',
   {
     name: 'Weather App',
     description: 'A weather lookup app consuming a public weather API with a clean, responsive UI.',

@@ -138,7 +138,7 @@ export const projects = [
     description: 'A weather lookup app consuming a public weather API with a clean, responsive UI.',
     tech: ['JavaScript', 'REST API'],
     github: 'https://github.com/Srai1505',
-    demo: null,
+    demo: 'https://skydiary.netlify.app/',
   },
   {
     name: 'Library Management System',

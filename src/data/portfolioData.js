@@ -85,14 +85,7 @@ export const experience = [
 ]
 
 export const projects = [
-  {
-    name: 'CivicLens',
-    description:
-      'A MERN-stack civic engagement platform for reporting local infrastructure issues, with an interactive map, gamified leaderboard, and a full user dashboard.',
-    tech: ['MongoDB', 'Express', 'React', 'Node.js'],
-    github: 'https://github.com/Srai1505',
-    demo: null,
-  },
+
   {
     name: 'Nexora',
     description:
@@ -101,7 +94,39 @@ export const projects = [
     github: 'https://github.com/Srai1505',
     demo: 'https://nexora-landingpage.netlify.app/',
   },
-  {
+   {
+    name: 'Weather App',
+    description: 'Real time weather web with location based forcasts, dynamic UI, and includes vikram samvat calendar support.',
+    tech: ['JavaScript', 'React.js', 'Tailwind CSS', 'REST API', 'Framer Motion'],
+    github: 'https://github.com/Srai1505',
+    demo: 'https://skydiary.netlify.app/',
+  },
+   {
+    name: 'SmartO - To-Do Web App',
+    description:
+      'A smart to-do web app covering DOM manipulation, localStorage persistence, and dynamic UI updates.',
+    tech: ['HTML', 'CSS', 'JavaScript'],
+    github: 'https://github.com/Srai1505',
+    demo: 'https://smarto-sham.netlify.app/',
+  },
+  
+    {
+    name: 'My Portfolio Website (version 1)',
+    description:
+      'My first personal portfolio website, built with React and styled-components, showcasing my projects and skills.',
+    tech: ['HTML', 'CSS', 'JavaScript'],
+    github: 'https://github.com/Srai1505',
+    demo: 'https://myprofessional-portfolio.netlify.app/',
+   },
+   {
+    name: 'CivicLens',
+    description:
+      'A MERN-stack civic engagement platform for reporting local infrastructure issues, with an interactive map, gamified leaderboard, and a full user dashboard.',
+    tech: ['MongoDB', 'Express', 'React', 'Node.js'],
+    github: 'https://github.com/Srai1505',
+    demo: null,
+  },
+   {
     name: 'Video Authentication System',
     description:
       'A face/video-based authentication system exploring computer vision for secure login flows.',
@@ -117,29 +142,8 @@ export const projects = [
     github: 'https://github.com/Srai1505',
     demo: null,
   },
-  {
-    name: 'SmartO - To-Do Web App',
-    description:
-      'A smart to-do web app covering DOM manipulation, localStorage persistence, and dynamic UI updates.',
-    tech: ['HTML', 'CSS', 'JavaScript'],
-    github: 'https://github.com/Srai1505',
-    demo: 'https://smarto-sham.netlify.app/',
-  },
-   {
-    name: 'My Portfolio Website (version 1)',
-    description:
-      'My first personal portfolio website, built with React and styled-components, showcasing my projects and skills.',
-    tech: ['HTML', 'CSS', 'JavaScript'],
-    github: 'https://github.com/Srai1505',
-    demo: 'https://myprofessional-portfolio.netlify.app/',
-   },
-  {
-    name: 'Weather App',
-    description: 'A weather lookup app consuming a public weather API with a clean, responsive UI.',
-    tech: ['JavaScript', 'REST API'],
-    github: 'https://github.com/Srai1505',
-    demo: 'https://skydiary.netlify.app/',
-  },
+ 
+ 
   {
     name: 'Library Management System',
     description: 'An OOP-driven system for managing book inventory, members, and lending records.',
@@ -150,7 +154,7 @@ export const projects = [
   {
     name: 'Hotel Management System',
     description: 'A booking and room-management system covering reservations, billing, and admin views.',
-    tech: ['Java'],
+    tech: ['Java', 'Java Swing', 'JDBC', 'MySQL'],
     github: 'https://github.com/Srai1505',
     demo: null,
   },
